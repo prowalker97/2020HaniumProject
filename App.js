@@ -5,6 +5,7 @@
  * @format
  * @flow strict-local
  */
+ //dsdadas
 import GlobalStyles from './GlobalStyles';
 import React,{Component} from 'react';
 import {
